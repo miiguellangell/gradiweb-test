@@ -19,7 +19,7 @@ Este proyecto es una prueba de un e-commerce que muestra productos en un carruse
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/miiguellangell/gradiweb-test/
 Navega al directorio del proyecto:
 
 bash
