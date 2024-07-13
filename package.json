@@ -1,0 +1,25 @@
+{
+  "name": "gradiweb-test",
+  "version": "1.0.0",
+  "description": "Ninguna",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel Carrera",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miiguellangell/gradiweb-test.git"
+  },
+  "keywords": [
+    "js",
+    "vanilla",
+    "code",
+    "gradiweb"
+  ],
+  "bugs": {
+    "url": "https://github.com/miiguellangell/gradiweb-test/issues"
+  },
+  "homepage": "https://github.com/miiguellangell/gradiweb-test#readme"
+}
