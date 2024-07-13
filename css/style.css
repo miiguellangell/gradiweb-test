@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Neogroteskess Regular';
-    src: url('/src/fonts/neogroteskess-regular.otf') format('opentype');
+    src: url('../src/fonts/neogroteskess-regular.otf') format('opentype');
 }
 
 :root {
@@ -269,7 +269,7 @@
     height: 550px;
     background-color: var(--color-brand2);
     align-items: center;
-    background-image: url('/src/images/overlayimg.png');
+    background-image: url('../src/images/overlayimg.png');
     background-repeat:no-repeat;
     background-position: center;
     background-size: contain;
@@ -278,7 +278,7 @@
   .overlay{
     width: 100%;
     height: 100%;
-    background-image: url('/src/images/Vector1.svg');
+    background-image: url('../src/images/vector1.svg');
     align-items: center;
     background-repeat:no-repeat;
     background-position: top;
