@@ -476,6 +476,13 @@
   margin-top: 10px;
   width: 60%;
 }
+.col.precios{
+  width: 100%;
+  display: flex;
+  justify-content:start;
+  margin-top: 8px;
+  text-align: left;
+}
 
 }
 
