@@ -19,10 +19,8 @@
 
   } 
   
-
   body{
     font-family: var(--cuerpos);
-    overflow-x: hidden;
   }
   button{
     font-size: var(--botones);
@@ -160,7 +158,12 @@
     width: 60%;
   }
 
+  .swiper-container.swiper-initialized.swiper-horizontal{
+    overflow-x: hidden;
+  }
+
   .swiper {
+    overflow-x: hidden;
     width: 100%;
     height: 100%;
   }
