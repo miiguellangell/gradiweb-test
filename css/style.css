@@ -291,7 +291,7 @@ h1::before {
 	align-items: center;
 	background-repeat: no-repeat;
 	background-position: top;
-	background-size: contain;
+	background-size: auto;
 }
 
 .containerdiv {
